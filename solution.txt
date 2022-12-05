@@ -1,0 +1,8 @@
+1. Open a file
+2. Make a right click
+3. Go to Preferences
+4. Go to Styels
+5. In the text field, add the next lines
+img {
+    object-fit: scale-down;
+}
